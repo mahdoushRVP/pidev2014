@@ -9,7 +9,7 @@ package pidev;
  * @author dell
  */
 public class PIDEV {
-
+public int a;
     /**
      * @param args the command line arguments
      */
